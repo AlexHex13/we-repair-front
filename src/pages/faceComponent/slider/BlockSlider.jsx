@@ -1,5 +1,5 @@
 import '../../../styles/faceComponent/faceComponent.css'
-import logo from "../../../static/carousel-slide-1.png"
+import logo from "../../../static/head-img.png"
 
 
 export function BlockSlider() {

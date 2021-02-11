@@ -33,7 +33,7 @@ export default function Header() {
                 <span class="navbar-text">Главная </span>
           </li>
           <li class="nav-item">
-                <span class="navbar-text">Акции </span>
+                <span class="navbar-text"> <a href="/src/pages/shares/Shares.jsx">Акции</a>  </span>
           </li>
           <li class="nav-item">
                 <span class="navbar-text">Прайс-лист </span>
